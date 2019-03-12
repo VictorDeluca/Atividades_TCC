@@ -1,4 +1,0 @@
-z::Shift
-\::Shift
-x::z
-c::x
